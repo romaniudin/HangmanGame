@@ -73,19 +73,3 @@ $(document).ready(function () {
         $('button').stop(true, true)
         });
 });
-
-
-
- 
-
-
-/*$(function () {
-
-    $('button').on('click', function(){
-        $('button').addClass('animated infinite flash').one(animationend, function () {
-            $(this).removeClass('animated infinite flash')
-        });
-    });
-
-});
-*/
